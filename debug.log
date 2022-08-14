@@ -1,16 +1,2 @@
-[Function: tap]
-la-workstation-sync --> listening at: 4001
-GitTimer -- PING
-EnvTimer -- PING
-GitTimer -- PING
-EnvTimer -- PING
-GitTimer -- PING
-GitTimer -- PING
-EnvTimer -- PING
-GitTimer -- PING
-GitTimer -- PING
-EnvTimer -- PING
-GitTimer -- PING
-GitTimer -- PING
-EnvTimer -- PING
-GitTimer -- PING
+16:08:91 08/08/2022	LA-WS --> listening at: 4000
+16:08:91 08/08/2022	LA-WS --> Logged in as: acran, DESKTOP-P2BD4IN
